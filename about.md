@@ -2,9 +2,8 @@
 layout: page
 title: About
 permalink: /about/
-public: true
 ---
 
-Welcome to this website!
+Tudo sobre a herewebuy agora está no brasil, mudou e não vai mais acompanhar a euipe da NBA.
 
-> This website is using [laobubu](http://laobubu.net)'s theme: [EasyBook](https://github.com/laobubu/jekyll-theme-EasyBook)
+Confira tudo que você vai ver agora na herewebuy.

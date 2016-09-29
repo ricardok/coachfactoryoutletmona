@@ -1,55 +1,36 @@
-# jekyll-theme-EasyBook
+# Neo-HPSTR Jekyll Theme
 
-Another Jekyll Blog Theme "EasyBook"
+Neo-HPSTR Jekyll is a responsive and modern blog template.
 
-Start blogging with a simple but powerful theme.
+Based on https://github.com/mmistakes/hpstr-jekyll-theme
 
-## Features
+Demo: http://aronbordin.com/neo-hpstr-jekyll-theme
 
-- Everything Basic Jekyll has.
-- **Pagination** is enabled.
-- **Comments** using Disqus or 多说.
-- **TOC** makes reading easier.
-- **Profile** including your links and avatar on the sidebar.
-- *And more...*
+# Live Demo
 
-## Install
+You can see it running [here](http://blog.rhesoft.com/) and [here](http://aronbordin.com/neo-hpstr-jekyll-theme/).
 
-Read [Quick Guide] to learn how to install and publish.
 
-Read [Welcome to Jekyll and EasyBook][helloPost] and [Jekyll][jekyll] for further information.
+## What Neo-HPSTR brings to the table:
 
-**If need help, please:**
+* Modern design.
+* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
+* Gracefully degrades in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
+* Sweet topbar animated menu with support for drop-downs.
+* Optional [Disqus](http://disqus.com) comments and social sharing links.
+* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
+* Simple [custom 404 page](http://mmistakes.github.io/hpstr-jekyll-theme/404.html) to get you started.
+* Stylesheets for Pygments and Coderay [syntax highlighting](http://mmistakes.github.io/hpstr-jekyll-theme/code-highlighting-post/) to make your code examples look snazzy
+* Author panel, with social links
+* Read more tag support (similar with Wordpress).
 
- - [**Read Wiki pages**](https://github.com/laobubu/jekyll-theme-EasyBook/wiki)
- - **Google it**
- - [**Submit an issue**](https://github.com/laobubu/jekyll-theme-EasyBook/issues/new)
+![Preview](http://aron-bordin.github.io/neo-hpstr-jekyll-theme/images/neo-hpstr-jekyll-theme-preview.png)
 
-## Donate
 
-Buy me a coffee if you find EasyBook useful for you :smiley:
+---
 
-Visit <http://laobubu.net/donate.html>
+## Getting Started
 
-## Demo
+Neo-HPSTR takes advantage of Sass and data files to make customizing easier. These features require Jekyll 2.x and will not work with older versions of Jekyll.
 
-[laobubu's blog](http://blog.laobubu.net) | [empty site](http://laobubu.github.io/jekyll-theme-EasyBook)
-
-![Homepage](https://ooo.0o0.ooo/2016/02/11/56bc997c65daf.png)
-
-## License
-
-```
-The MIT License (MIT)
-Copyright (c) 2016 laobubu
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-```
-
-[Quick Guide]: https://github.com/laobubu/jekyll-theme-EasyBook/wiki/Quick-Guide
-[helloPost]: http://laobubu.github.io/jekyll-theme-EasyBook/archivers/hello
-[jekyll]: http://jekyllrb.com/
+To learn how to install and use this theme check out the [Setup Guide](http://aronbordin.com/neo-hpstr-jekyll-theme//theme-setup/) for more information.
